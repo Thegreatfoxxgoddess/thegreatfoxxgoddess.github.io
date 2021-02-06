@@ -9,13 +9,12 @@
 
 ## About Me 
 ```
->Pro kanger
->I like cats
->I like Paimon
+>Pro kanger    🙁🙁
+>I like cats   😽😽
+>I like Paimon ✨✨
 ```
 
 
-<img src="https://komarev.com/ghpvc/?username=thegreatfoxxgoddess" alt="thegreatfoxxgoddess" />
 
 ## CHECK-OUT
 
