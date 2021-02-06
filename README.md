@@ -1,17 +1,18 @@
-# Alícia Dark
-# Hello There !, `I'm Alícia`.  
+
+Hello There !, `I'm Alícia`.  
 
 
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
 - [ ] [play] /play nyan :sparkles::sparkles:
 
-## About Me 
-```
+About Me 
+
+
 >Pro kanger    🙁🙁
 >I like cats   😽😽
 >I like Paimon ✨✨
-```
+
 
 
 
