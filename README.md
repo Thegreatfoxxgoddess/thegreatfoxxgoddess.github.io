@@ -1,17 +1,22 @@
-### Hi there 👋
+# Alícia Dark
+## Hello There !, `I'm Alícia`.  
+:
 
-<!--
-**Thegreatfoxxgoddess/thegreatfoxxgoddess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-/play nyan
+
+### About Me 
+```
+>Pro kanger
+>I like cats
+>I like Paimon
+```
+
+
+<img src="https://komarev.com/ghpvc/?username=thegreatfoxxgoddess" alt="thegreatfoxxgoddess" />
+
+### CHECK-OUT
+
+- [ ] [userge-x](https://github.com/code-rgb/Userge-X)
+- [ ] [oub-remix](https://github.com/sahyam2019/oub-remix)
