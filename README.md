@@ -4,7 +4,7 @@ Hello There ! ```I'm Alícia```...
 
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
-- [ ] [play] /play nyan :sparkles::sparkles:
+- /play nyan :sparkles::sparkles:
 
 About Me 
 
