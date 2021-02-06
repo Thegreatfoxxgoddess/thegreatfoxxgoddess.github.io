@@ -22,3 +22,7 @@ CHECK-OUT
 
 - [ ] [userge-x](https://github.com/code-rgb/Userge-X)
 - [ ] [oub-remix](https://github.com/sahyam2019/oub-remix)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatfoxxgoddess&hide=dockerfile&theme=dark)](https://github.com/thegreatfoxxgoddess)
+
