@@ -5,7 +5,7 @@
 
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
-/play nyan :sparkles::sparkles:
+- [ ] [play] /play nyan :sparkles::sparkles:
 
 ## About Me 
 ```
