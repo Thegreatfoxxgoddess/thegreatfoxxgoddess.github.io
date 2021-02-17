@@ -12,7 +12,7 @@ About Me
 
 ```
 >Pro kanger    🙁🙁
->I like cats   😽😽
+>I like cats   😽😽 not anymore, cats bad
 >I like Paimon ✨✨
 ```
 
