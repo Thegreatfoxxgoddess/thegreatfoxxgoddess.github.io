@@ -4,7 +4,7 @@ Hello There ! ```I'm Alícia```...
 
 
 
-<img align=right src='https://media3.giphy.com/media/11lxCeKo6cHkJy/giphy.gif'/>
+<img align=right src='https://media3.giphy.com/media/11lxCeKo6cHkJy/giphy.gif'width=400px/>
 
 currently playing = /play nyan
 
