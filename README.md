@@ -24,4 +24,4 @@ CHECK-OUT
 - [ ] [oub-remix](https://github.com/sahyam2019/oub-remix)
 
 
-<a <img src="https://media3.giphy.com/media/11lxCeKo6cHkJy/giphy.gif" alt="Userge-x" width=400px></a>
+<a <img src="https://media3.giphy.com/media/11lxCeKo6cHkJy/giphy.gif" alt="Userge-x" width=100px></a>
