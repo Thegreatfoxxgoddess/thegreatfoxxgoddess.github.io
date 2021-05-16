@@ -11,7 +11,7 @@ About Me
 
 ```
 >Pro kanger    🙁🙁
->I like cats   😽😽 not anymore, cats bad
+>I like cats   😽😽 
 >I like Paimon ✨✨
 ```
 
@@ -19,7 +19,7 @@ About Me
 
 CHECK-OUT
 
-- [ ] [userge-x](https://github.com/code-rgb/Userge-X)
-- [ ] [oub-remix](https://github.com/sahyam2019/oub-remix)
+- [ ] [userge-x[dead]](https://github.com/code-rgb/Userge-X)
+- [ ] [oub-remix[dead]](https://github.com/sahyam2019/oub-remix)
 
 
