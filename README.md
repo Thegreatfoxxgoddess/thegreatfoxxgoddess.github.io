@@ -1,9 +1,9 @@
 
-Hello There ! I'm [Alícia](https://t.me/aliciadark)
+Hello There ! I'm <a><img align=right src="https://telegra.ph/file/ac69cdf3feeb1b76c0839.png" alt ="Alícia" width=50px></a>
 
 <a><img align=right src="https://media3.giphy.com/media/11lxCeKo6cHkJy/giphy.gif" alt="Userge-x" width=70px></a>
 
-currently playing =` [young](https://open.spotify.com/playlist/5ddLrdKjGR7SLqthbEcoNc?si=A_wkwVhXQHK3ZTe8VrQBfg&utm_source=copy-link)`
+currently playing =[young](https://open.spotify.com/playlist/5ddLrdKjGR7SLqthbEcoNc?si=A_wkwVhXQHK3ZTe8VrQBfg&utm_source=copy-link)
 
 
 
