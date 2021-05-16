@@ -1,11 +1,11 @@
 
 Hello There ! ```I'm Alícia```
 
-
 <a><img align=right src="https://media3.giphy.com/media/11lxCeKo6cHkJy/giphy.gif" alt="Userge-x" width=70px></a>
 
+currently playing = [young](https://open.spotify.com/playlist/5ddLrdKjGR7SLqthbEcoNc?si=A_wkwVhXQHK3ZTe8VrQBfg&utm_source=copy-link)
 
-currently playing = /play nyan
+
 
 About Me 
 
