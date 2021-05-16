@@ -7,12 +7,11 @@ currently playing = [young](https://open.spotify.com/playlist/5ddLrdKjGR7SLqthbE
 
 
 
-About Me 
-
+About Meh...
 ```
->Pro kanger    🙁🙁
->I like cats   😽😽 
->I like Paimon ✨✨
+» Pro kanger    🙁🙁
+» I like [cats](https://telegra.ph/file/26d143369a85a6ab52b61.jpg)   😽😽 
+» I like [Paimon](https://t.me/aliciadarkxd_bot) ✨✨
 ```
 
 
