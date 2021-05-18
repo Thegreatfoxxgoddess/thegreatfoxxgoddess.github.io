@@ -7,9 +7,12 @@ currently playing = [young](https://open.spotify.com/playlist/5ddLrdKjGR7SLqthbE
 
 About Meh...
 ```
-» Pro kanger    🙁🙁
-» I like cats   😽😽 
-» I like Paimon ✨✨
+» Pro kanger 
+» I like cats
+» I like Paimon 
+» I don't know anything about programming 
+» I copy and paste 
+» wanna learn, java, kotlin, linux, hacking and everything I can 
 ```
 
 
@@ -19,17 +22,4 @@ About Meh...
 <a><img src="https://telegra.ph/file/aa122096040f3c5005287.gif" width=89></a>
 
 
-
-
-
-
-
-
-
-
-
-CHECK-OUT
-
-- [ ] [userge-x[dead]](https://github.com/code-rgb/Userge-X)
-- [ ] [oub-remix[dead]](https://github.com/sahyam2019/oub-remix)
 
