@@ -7,12 +7,12 @@ currently playing = [young](https://open.spotify.com/playlist/5ddLrdKjGR7SLqthbE
 
 About Meh...
 ```
-» Pro kanger 
+» I'm a pro kanger 
 » I like cats
 » I like Paimon 
 » I don't know anything about programming 
 » I copy and paste 
-» wanna learn, java, kotlin, linux, hacking and everything I can 
+» I wanna learn, java, kotlin, linux, hacking and everything I can 
 ```
 
 
