@@ -1,5 +1,4 @@
-![alt text](/src/of/https://telegra.ph/file/8f9c4cd52e0e04ccf339e.gif "title")
-
+![Kitten](/media/2018/08/kitten.jpg "A cute kitten")
 Hello There ! I'm <a href="https://t.me/aliciadark"> <img src="https://telegra.ph/file/ac69cdf3feeb1b76c0839.png" width=50px></a> and I like to break stuff
 
 
