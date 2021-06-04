@@ -3,11 +3,10 @@
 Hey There ! I'm Alícia and I'm dead.<br /> 
 killed by toxic people on the internet.
 
-
+<br /> 
 
 About Meh... <br /> 
-
-<br />  
+  
 » <strike> I'm a pro kanger </strike> <br /> 
 » <strike> I like cats </strike> <br /> 
 » <strike> I like Paimon </strike> <br /> 
