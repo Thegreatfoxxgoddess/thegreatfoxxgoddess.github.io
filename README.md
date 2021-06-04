@@ -1,12 +1,13 @@
 
 
-Hey There ! I'm Alícia and I'm dead 
+Hey There ! I'm Alícia and I'm dead.<br /> 
 killed by toxic people on the internet.
 
 
 
 About Meh... <br /> 
-<br /> 
+<br />
+<br />  
 » <strike> I'm a pro kanger </strike> <br /> 
 » <strike> I like cats </strike> <br /> 
 » <strike> I like Paimon </strike> <br /> 
